@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.781);
+  color: white;
+  font-family: 'Bruno Ace SC', cursive;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.ReactPlayer {
+  background-color: black;
+  margin-left: 50px;
+  padding-top: 10px;
+  border-top: 2px solid white;
+}
+
+.disp {
+  border: 2px inset white;
+  background-color: black;
+  height: 560px;
+}
+
+.btn1 {
+  border: 1px inset white;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+  margin-right: 2rem;
+  font-family: 'Bruno Ace SC', cursive;
+  cursor: pointer;
+}
+
+.btn2 {
+  border: 1px inset white;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+  margin-left: 2rem;
+  font-family: 'Bruno Ace SC', cursive;
+  cursor: pointer;
+}
+
+h2 {
+  color: rgb(22, 223, 22);
+}
